@@ -1,3 +1,3 @@
 # Maintainer
 
-Primary maintainer: @lekanay2005-coder
+Primary maintainer: [Hikmaholadele](https://github.com/Hikmaholadele) (@Hikmaholadele)
